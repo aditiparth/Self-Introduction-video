@@ -1,5 +1,5 @@
 # Self-Introduction-video
-# Hi, I'm Aditi Parthasarathi 👋
+# Hi, I'm Aditi Parthasarathi!
 
 Computer Science student | Full-stack developer | AI & design enthusiast
 
